@@ -12,6 +12,15 @@
         },
         "cordova-plugin-camera": {
             "PACKAGE_NAME": "com.zulu.phonegapp.camara"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.zulu.phonegapp.camara"
+        },
+        "cordova-plugin-spinner": {
+            "PACKAGE_NAME": "com.zulu.phonegapp.camara"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.zulu.phonegapp.camara"
         }
     },
     "dependent_plugins": {
